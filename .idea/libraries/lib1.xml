@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ScreenCaptureWindowsApp/out/production/WindowsScreenCaptureApp/lib/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ScreenCaptureWindowsApp/out/production/WindowsScreenCaptureApp/lib/jna-platform-5.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

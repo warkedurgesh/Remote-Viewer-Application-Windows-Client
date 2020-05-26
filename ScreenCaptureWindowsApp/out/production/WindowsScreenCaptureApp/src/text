@@ -1,0 +1,24 @@
+###Connection Est (0)
+client_id,
+seq_no, 0,
+transmission_type,
+retransmission_timeout
+
+###Meta-data Transfer (1)
+client_id,
+seq_no, 1,
+transmission_type,
+file_name,
+file_format,
+file_size
+
+###Data Transfer (2)
+client_id,
+seq_no, 2....,
+transmission_type,
+is_last_packet,
+
+
+
+##QUIT (3)
+
